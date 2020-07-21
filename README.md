@@ -1,1 +1,2 @@
-# HmaoyeQiz
+# HamaoyeQiz
+#Answers to the Quiz
